@@ -42,7 +42,7 @@ hide_message =				M
 refresh =					^r
 reload =					r
 toggle_hidden_files =		H
-go_to_music_directory =		m
+go_to_music_directory = 		m
 delete_from_playlist =		d
 search_menu =				f
 save_playlist =				V
@@ -68,7 +68,7 @@ mark_end =					"
 
 # Key bindings for directories: defaults are Shift-number
 # shift 1 = ! = Fastdir1
-go_to_fast_dir1 =			!
+go_to_fast_dir1 =               	!
 go_to_fast_dir2 =			@
 go_to_fast_dir3 =			#
 go_to_fast_dir4 =			$

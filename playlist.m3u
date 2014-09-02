@@ -1,5 +1,5 @@
 #EXTM3U
-#MOCSERIAL: 4352
+#MOCSERIAL: 2048
 #EXTINF:331,“The Island–My Name Is Lincoln(The Island)”
 /home/rayenok/music/bso_nuevas/My Name Is Lincoln- Extended - The Island.mp3
 #EXTINF:404,“The Dark Knight Soundtrack–A Watchful Guardian(The Dark Knight Soundtrack)”
@@ -24,6 +24,8 @@
 /home/rayenok/music/American Beauty movie theme.mp3
 #EXTINF:312,“Motoi Sakuraba–Souls of Fire(DARK SOULS)”
 /home/rayenok/music/Dark Souls Soundtrack/01_Souls of Fire.mp3
+#EXTINF:175,“Motoi Sakuraba–Firelink Shrine(DARK SOULS)”
+/home/rayenok/music/Dark Souls Soundtrack/03_Firelink Shrine.mp3
 #EXTINF:173,“Motoi Sakuraba–Daughters of Chaos(DARK SOULS)”
 /home/rayenok/music/Dark Souls Soundtrack/09_Daughters of Chaos.mp3
 #EXTINF:183,“Motoi Sakuraba–Crossbreed Priscilla(DARK SOULS)”
@@ -164,3 +166,21 @@
 /home/rayenok/music/sync/Theophany - Time's End- Majora's Mask Remixed - 09 Final Hours.mp3
 #EXTINF:505,“Theophany–Time's End(Time's End: Majora's Mask Remixed)”
 /home/rayenok/music/sync/Theophany - Time's End- Majora's Mask Remixed - 10 Time's End.mp3
+#EXTINF:120,“Nothing”
+/home/rayenok/music/Kuniaki Haishima - Nothing.mp3
+#EXTINF:293,/home/rayenok/music/Kaiti Kink Ensemble - Superstitious.mp3
+/home/rayenok/music/Kaiti Kink Ensemble - Superstitious.mp3
+#EXTINF:354,/home/rayenok/music/Blockhead - It's Raining Clouds.mp3
+/home/rayenok/music/Blockhead - It's Raining Clouds.mp3
+#EXTINF:307,/home/rayenok/music/Death in Vegas - Hands Around My Throat.mp3
+/home/rayenok/music/Death in Vegas - Hands Around My Throat.mp3
+#EXTINF:290,/home/rayenok/music/Mandalay - Insensible.mp3
+/home/rayenok/music/Mandalay - Insensible.mp3
+#EXTINF:404,/home/rayenok/music/DJ shadow/Building steam with a grain of salt.mp3
+/home/rayenok/music/DJ shadow/Building steam with a grain of salt.mp3
+#EXTINF:300,/home/rayenok/music/DJ shadow/Midnight In a Perfect World.mp3
+/home/rayenok/music/DJ shadow/Midnight In a Perfect World.mp3
+#EXTINF:362,/home/rayenok/music/Craig Armstrong - Weather Storm.mp3
+/home/rayenok/music/Craig Armstrong - Weather Storm.mp3
+#EXTINF:233,/home/rayenok/music/Quantic - Time is the enemy.mp3
+/home/rayenok/music/Quantic - Time is the enemy.mp3

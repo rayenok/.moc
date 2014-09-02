@@ -7,7 +7,7 @@ ReadTags = yes
 # Directory in which you store music files, if you specify it, you will be able
 # to quickly go to this directory with the ‘-m’ parameter or the ‘m’ command.
 # This can also point to a playlist.
-MusicDir = “/home/rayenok/music”
+MusicDir = /home/rayenok/music
 # How to sort? FileName is the only option for now.
 Sort = FileName
 # Show errors in the streams, for example CRC errors or broken frames in mp3 files
@@ -41,7 +41,7 @@ Prebuffering = 64
 # Sound driver – OSS, ALSA, JACK, or null (only for debugging)
 # You can enter more than one driver separated by a coma. The first working
 # driver will be used.
-# SoundDriver = ALSA, OSS, JACK 
+SoundDriver = ALSA, OSS, JACK 
 # Jack output settings
 # JackOutLeft = “alsa_pcm:playback_1″
 # JackOutRight = “alsa_pcm:playback_2″
@@ -54,11 +54,11 @@ Prebuffering = 64
 # Second OSS Mixer channel: pcm or master
 # OSSMixerChannel2 = master
 # ALSA mixer device
-# AlsaMixer = PCM
+AlsaMixer = PCM
 # Second ALSA mixer device
-# AlsaMixer2 = Master
+AlsaMixer2 = Master
 # ALSA output device
-# AlsaDevice = default
+AlsaDevice = default
 # Show files with dot at the beginning?
 ShowHiddenFiles = no
 # Start in the music directory if no arguments are given. If set to no, start
@@ -146,3 +146,8 @@ UseCursorSelection = no
 #OnStop = “/home/lswest/.bin/mochg”
 
 keymap = /home/rayenok/.moc/keymap
+
+# MusicDir = /home/rayenok/music/
+Fastdir1 = /home/rayenok/.moc/playlists/
+Fastdir2 = /home/rayenok/music/
+
